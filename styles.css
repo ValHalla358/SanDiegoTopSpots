@@ -1,0 +1,34 @@
+    @font-face {
+        font-family: 'Arsenal', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+        src: https: //fonts.googleapis.com/css?family=Arsenal;
+        src: https: //fonts.googleapis.com/css?family=Open+Sans;
+    }
+    
+    #h1Tag {
+        font-family: Arsenal, Georgia, serif;
+        font-size: 5em;
+    }
+    
+    #tableDiv {
+        font-family: Open Sans, sans-serif;
+        font-size: 1.2em;
+    }
+    /* main css */
+    
+    #h1Div {
+        text-align: center;
+    }
+    
+    #tBody {
+        padding: 10px;
+    }
+    
+    .container {
+        float: center;
+        clear: none;
+    }
+    
+    .btn btn-default {
+        text-align: center;
+    }
